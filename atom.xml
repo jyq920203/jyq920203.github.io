@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyq920203.github.io/</id>
     <title>Kalaokay</title>
-    <updated>2021-03-10T01:10:53.792Z</updated>
+    <updated>2021-03-10T02:45:27.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jyq920203.github.io/"/>
     <link rel="self" href="https://jyq920203.github.io/atom.xml"/>
@@ -11,13 +11,36 @@
     <icon>https://jyq920203.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Kalaokay</rights>
     <entry>
+        <title type="html"><![CDATA[2021.3.10]]></title>
+        <id>https://jyq920203.github.io/post/2021310/</id>
+        <link href="https://jyq920203.github.io/post/2021310/">
+        </link>
+        <updated>2021-03-10T01:15:35.000Z</updated>
+        <content type="html"><![CDATA[<p>Tracking：</p>
+<ul>
+<li>早上起来冥想了5mins</li>
+<li>锻炼了6mins</li>
+<li>营养处方发版本-汪</li>
+</ul>
+<p>Tasks：</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3786323"><label class="task-list-item-label" for="task-item-3786323"> 買掛残高一覧表</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1421164"><label class="task-list-item-label" for="task-item-1421164"> 圈子bug问题的 查看与咨询</label></li>
+</ul>
+<p>Journal：</p>
+<ul>
+<li>删除了时间记录的app toggle，还是觉得没有必要记录，需要的是，你清醒的知道自己在做什么。</li>
+<li>好喜欢blender 这个杯子，耐热，容量大。我现在用两个杯子，一个马克杯，一个blender，blender里面放柠檬，茶叶，马克杯去到热水，然后倒到blender里面。泡一会儿，再倒到马克杯中喝。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第一篇]]></title>
         <id>https://jyq920203.github.io/post/di-yi-pian/</id>
         <link href="https://jyq920203.github.io/post/di-yi-pian/">
         </link>
         <updated>2019-10-20T02:21:06.000Z</updated>
-        <content type="html"><![CDATA[<p>开始写博客了。记录每天生活</p>
-<p>很爽吧的定额奇偶的而零件安塞龙反看非</p>
+        <content type="html"><![CDATA[<p>开始写博客了。记录每天生活。</p>
 ]]></content>
     </entry>
 </feed>
